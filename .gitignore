@@ -1,0 +1,8 @@
+.vs/
+Build/
+build-*/
+build-msvc/
+build-ninja/
+build-mingw/
+build-vs/
+*.log
